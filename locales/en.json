@@ -1,0 +1,15 @@
+{
+    "link": "big_dirs Link",
+    "listing": {
+        "title": "big_dirs Listing",
+        "item1": "Item number one",
+        "item2": "Item number two"
+    },
+    "report": {
+        "title": "big_dirs Report"
+    },
+    "title": "big_dirs Title",
+    "widget": {
+        "title": "big_dirs Widget"
+    }
+}
